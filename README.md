@@ -1,2 +1,2 @@
-download the three file for howdy
-put them to `/lib/security/howdy/dlib-data`
+1. download the three file for howdy
+2. put them to `/lib/security/howdy/dlib-data`
